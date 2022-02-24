@@ -51,7 +51,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/arman-ali-8383081ab/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/arman_official__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/itz_arman_official__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100031325293941"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/Arman_Ali_01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
