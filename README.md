@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/arman-ali-8383081ab/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/armanali0786?tab=repositories)**
 
 - 📫 How to reach me **armanali.shaikh77@gmail.com**
 
