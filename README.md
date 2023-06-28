@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I am currently pursuing my **Bachelor's in Information Technology**.
+- 🎓 I am recently completed my **Bachelor's in Information Technology**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
