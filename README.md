@@ -5,7 +5,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
     
 ## 🙋‍♂️ About Me
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 I am recently completed my **Bachelor's in Information Technology**.
 
