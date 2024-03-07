@@ -1,7 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arman</h1>
-<h3 align="center">❤️ to do programming.</h3>
+<h3 align="center">I ❤️ to do programming.</h3>
 <h3 align="center">A passionate FullStack Developer from India</h3>
     
 ## 🙋‍♂️ About Me
@@ -26,11 +26,6 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/armanali0786/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arman Ali streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RahuII&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 ## 📊 My Github Stats
 
