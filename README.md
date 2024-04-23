@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 I am recently completed my **Bachelor's in Information Technology**.
+- 🎓 I recently completed my **Bachelor's in Information Technology**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
