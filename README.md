@@ -48,7 +48,7 @@
 <a href = "https://twitter.com/Arman_Ali_01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/armanali0786/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=RahuII">
 </a>
 <a href="https://github.com/armanali0786?tab=followers"><img src="https://img.shields.io/github/followers/RahuII?label=Followers&style=social" alt="GitHub Badge"></a>
