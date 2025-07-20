@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 I have completed my **Bachelor's in Information Technology** in 2023 with grade 8.6 CGPA.
+- 🎓 I did my **Bachelor's in Information Technology** in 2023 with grade 8.6 CGPA.
 
 - 👨‍💻 Skilled professional with **experience of 2+ years in Web Developement** with a proven track record of developing robust web solutions.
 
