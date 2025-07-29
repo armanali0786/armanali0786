@@ -28,17 +28,6 @@
 <br/>
 
 
-## 📊 My Github Stats
-
-  <br/>
-  <a href =""> <img height = "185rem" alt="Arman Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=armanali0786&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
-  <a href =""><img height = "185rem" alt="Arman Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanali0786&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
@@ -47,8 +36,3 @@
 <a href = "https://www.facebook.com/profile.php?id=100031325293941"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/Arman_Ali_01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
-## ❤ Views and Followers
-<a href="https://github.com/armanali0786/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RahuII">
-</a>
-<a href="https://github.com/armanali0786?tab=followers"><img src="https://img.shields.io/github/followers/RahuII?label=Followers&style=social" alt="GitHub Badge"></a>
