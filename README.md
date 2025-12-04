@@ -10,9 +10,9 @@
 
 - 👨‍💻 Skilled professional with **experience of 2+ years in Web Developement** with a proven track record of developing robust web solutions.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://armanali0786.github.io/ArmanPortfolio/)**
 
