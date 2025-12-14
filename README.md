@@ -14,7 +14,7 @@
 
 - I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://armanali0786.github.io/ArmanPortfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-armanali.netlify.app/)**
 
 - 📫 How to reach me **armanali.shaikh77@gmail.com**
 
