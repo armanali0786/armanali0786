@@ -8,7 +8,7 @@
 
 - 🎓 I did my **Bachelor's in Information Technology** in 2023 with grade 8.6 CGPA.
 
-- 👨‍💻 Skilled professional with **experience of 2.8+ years in Web Developement** with a proven track record of developing robust web solutions.
+- 👨‍💻 Skilled professional with **experience of 3+ years in Web Developement** with a proven track record of developing robust web solutions.
 
 - I’m currently learning **Data Structures and Algorithms.**
 
