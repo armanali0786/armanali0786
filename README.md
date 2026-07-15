@@ -28,19 +28,6 @@ Agile/Scrum, Code Reviews, Performance Optimization
 
 ---
 
-## Experience
-
-**Frontend Engineer** at Evolvus Solutions (Syneca AI) — Sep 2025 to Present
-Leading frontend architecture for an enterprise AI platform — ER diagram renderer for 1000+ tables, job scheduler, chart rendering framework, and a universal file preview system.
-
-**Frontend Developer** at Cipher Craft — Sep 2024 to Sep 2025
-Built a solar installation planning platform with Google Maps, roof measurement tools, and automated PDF reporting.
-
-**Web Developer** at 9Brainz — Jul 2023 to Jul 2024
-Shipped React apps serving 1000+ users with a component-driven, test-covered architecture.
-
----
-
 ## Projects
 
 **[StackMastery](https://stackmastery.netlify.app)**
