@@ -51,12 +51,6 @@ RAG-based codebase intelligence tool that lets teams query architecture in plain
 
 ---
 
-## GitHub Stats
-
-![Arman's GitHub stats](https://github-readme-stats.vercel.app/api?username=armanali0786&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanali0786&layout=compact&hide_border=true)
-
 ---
 
 Always open to interesting conversations about frontend architecture, AI tooling, or good coffee.
