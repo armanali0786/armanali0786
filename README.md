@@ -100,8 +100,6 @@ A RAG-based codebase intelligence tool that lets engineering teams **query their
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanali0786&theme=tokyonight&hide_border=true" />
 </p>
 
-> 💡 Replace `armanali0786` above with your actual GitHub **username** (not your LinkedIn handle) for these stats to render correctly.
-
 ---
 
 <p align="center">
