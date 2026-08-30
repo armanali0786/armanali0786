@@ -1,6 +1,6 @@
 # Arman Ali
 
-Full-Stack Software Engineer with 3+ years of experience building scalable web apps. I care about clean code, performance, and turning messy requirements into simple, solid products.
+Full-Stack Software Engineer with 4+ years of experience building scalable web apps. I care about clean code, performance, and turning messy requirements into simple, solid products.
 
 Bengaluru, India | armanali.shaikh77@gmail.com | [LinkedIn](https://linkedin.com/in/arman-ali-8383081ab) | [Portfolio](https://portfolio-armanali.netlify.app)
 
@@ -35,8 +35,6 @@ AI-powered interview prep platform with a 500+ problem DSA tracker, AI mentor, a
 
 **[CodePilotEngineer](https://codepilotengineer.netlify.app)**
 RAG-based codebase intelligence tool that lets teams query architecture in plain English.
-
----
 
 ---
 
