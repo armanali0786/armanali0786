@@ -96,13 +96,6 @@ A RAG-based codebase intelligence tool that lets engineering teams **query their
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arman-ali-8383081ab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arman-ali-8383081ab&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-ali-8383081ab&theme=tokyonight&hide_border=true" />
 </p>
