@@ -85,7 +85,7 @@ AI-powered interview prep platform featuring a **500+ problem DSA tracker**, an 
 </td>
 <td width="50%">
 
-🚕 RydTrip
+🚕  [RydTrip](https://github.com/armanali0786/RydTrip)  
 
 Production-style real-time ride-hailing and dispatch platform built with React, NestJS microservices, Kafka, Redis GEO, PostgreSQL/PostGIS, and WebSockets, featuring geospatial driver matching, atomic ride reservation, live GPS tracking, and scalable event-driven architecture.
 
